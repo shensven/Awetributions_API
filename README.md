@@ -1,5 +1,7 @@
 # hackernews-async-ts
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6dce034be92946f89d8d21cce0b57c6f)](https://app.codacy.com/gh/shensven/Awetributions_API?utm_source=github.com&utm_medium=referral&utm_content=shensven/Awetributions_API&utm_campaign=Badge_Grade_Settings)
+
 [Hacker News](https://news.ycombinator.com/) showcase using typescript && egg
 
 ## QuickStart

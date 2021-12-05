@@ -1,5 +1,5 @@
 {
-  "name": "Awetributions_API",
+  "name": "awetributions_api",
   "version": "1.0.0",
   "description": "A RESTful API for Awetributions",
   "private": true,
@@ -49,7 +49,9 @@
     "type": "git",
     "url": ""
   },
-  "eslintIgnore": ["coverage"],
+  "eslintIgnore": [
+    "coverage"
+  ],
   "author": "SvenFE",
-  "license": "MIT"
+  "license": "GPL-3.0"
 }
